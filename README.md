@@ -32,7 +32,7 @@ Flappy Bird is a 2013 casual mobile game developed by Vietnamese video game arti
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/iam-baivab/flappy-bird.git
+    git clone https://github.com/ThisIs-Developer/flappy-bird.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -72,6 +72,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 [license-shield]: https://img.shields.io/badge/License-MIT-red.svg
-[license-url]: https://github.com/iam-baivab/News-Scraping-using-BeautyfulSoup-Selenium-with-Django/blob/main/LICENSE
+[license-url]: https://github.com/ThisIs-Developer/News-Scraping-using-BeautyfulSoup-Selenium-with-Django/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/baivabsarkar/
